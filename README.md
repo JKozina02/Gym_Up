@@ -1,3 +1,3 @@
 # gym_up
 
-A new Flutter project.
+Flutter Gym App project
